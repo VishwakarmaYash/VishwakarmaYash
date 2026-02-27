@@ -28,8 +28,8 @@
 | :--- | :--- | :--- |
 | **[AI Debugging Assistant](https://github.com/VishwakarmaYash/code_debugger)** | AI-driven assistant to help debug code and analyze error logs using Google's Gemini API. | Python, Streamlit, Gemini API |
 | **[FighterJett Game](https://github.com/VishwakarmaYash/FighterJett_Game)** | A 2D game project developed for Computer Graphics lab. | Python |
-| **[OOPS Labs](https://github.com/VishwakarmaYash/OOPS-Labs)** | Collection of Object Oriented Programming experiments and labs. | C++ |
 | **[Bandwidth Allocation](https://github.com/VishwakarmaYash/Bandwidth_Allocation_-Networking-)** | Networking project focusing on bandwidth allocation algorithms. | - |
+| **[AI_Coder](https://github.com/VishwakarmaYash/AI_Coder)** | AI-powered coding assistant. | Python |
 
 ---
 
