@@ -18,7 +18,7 @@
 
 ### 🛠️ Tech Stack  
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,cpp,git,github,express,react,pandas" />
 </p>
 
 ---
@@ -29,8 +29,7 @@
 | **[AI Debugging Assistant](https://github.com/VishwakarmaYash/code_debugger)** | AI-driven assistant to help debug code and analyze error logs using Google's Gemini API. | Python, Streamlit, Gemini API |
 | **[AI_Coder](https://github.com/VishwakarmaYash/AI_Coder)** | AI-powered coder like loveable. | Python,langchain |
 | **[FighterJett Game](https://github.com/VishwakarmaYash/FighterJett_Game)** | A 2D game project developed for Computer Graphics lab. | Python |
-|
-
+| **[climate-ml-predictor](https://github.com/VishwakarmaYash/climate-ml-predictor)** | Machine Learning model for climate prediction. | Python, Machine Learning |
 
 ---
 
@@ -55,4 +54,3 @@
 ---
 
 ⭐ *“Learning by building. Improving one commit at a time.”*
-
