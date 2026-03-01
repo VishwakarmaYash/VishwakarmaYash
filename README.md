@@ -43,7 +43,7 @@
 
 ### 🌐 Connect With Me  
 <p>
-  <a href="[https://www.linkedin.com/in/YOUR_LINKEDIN](https://www.linkedin.com/in/yash-vishwakarma-479388315/)" target="_blank">
+  <a href="https://www.linkedin.com/in/yash-vishwakarma-479388315/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
   <a href="yash.v2136@gmail.com">
